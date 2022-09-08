@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628094175 source:c:\users\lucas\documents\codeblocks_fontes\funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630183019 source:c:\users\lucas\documents\codeblocks\proximono\main.c
+	<stdio.h>
+	<stdlib.h>
+

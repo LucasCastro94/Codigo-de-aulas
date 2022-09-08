@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625705718 source:c:\users\lucas\documents\codeblocks_fontes\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

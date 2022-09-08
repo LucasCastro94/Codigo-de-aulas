@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628095335 source:c:\users\lucas\documents\codeblocks_fontes\chamaoutrafunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

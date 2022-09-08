@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626895598 source:c:\users\lucas\documents\codeblocks_fontes\hortifrute\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

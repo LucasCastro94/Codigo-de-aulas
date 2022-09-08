@@ -1,0 +1,20 @@
+Nome:antena
+ID:123455
+Preco:125.00
+
+Nome:mesa
+ID:60
+Preco:1500.00
+
+Nome:nissan
+ID:1
+Preco:180000.00
+
+Nome:honda civic
+ID:2
+Preco:180.00
+
+Nome:cpu gamer
+ID:323445
+Preco:5000.00
+
